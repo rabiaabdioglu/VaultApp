@@ -1,6 +1,6 @@
 <h1 align="center"> Photo Sharing Social Media Firebase App  </h1>
 
-## :shirt: Implemented Using
+## :camera: Implemented Using
   
 - UIKit
 - Programmatic Layout using Snapkit
