@@ -1,4 +1,4 @@
-<h1 align="center"> Photo Sharing Social Media Firebase App  </h1>
+<h1 align="center"> Vault App  </h1>
 
 ## :camera: Implemented Using
   
